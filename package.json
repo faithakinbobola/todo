@@ -35,7 +35,7 @@
       "last 1 safari version"
     ]
   },
-  "resolutions": {
-    "postcss": "^8.3.6"
+  "devDependencies": {
+    "postcss": "^8.4.47"
   }
 }
